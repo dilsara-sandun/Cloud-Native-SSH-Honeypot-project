@@ -1,4 +1,4 @@
-# Cloud-Native SSH Honeypot & Global Threat Intelligence Feed
+# Cloud-Native SSH Honeypot & Global Threat Intelligence Feed 🚀
 
 ## 📝 Project Overview
 This project demonstrates the deployment of a low-resource, high-utility **SSH Honeypot** built on AWS EC2 to capture, log, and analyze real-world adversarial brute-force attacks. By leveraging custom port obfuscation and network-level redirection, the system safely isolates malicious activities inside a simulated Debian environment while generating actionable threat intelligence.
