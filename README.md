@@ -7,12 +7,6 @@ This project demonstrates the deployment of a low-resource, high-utility **SSH H
 
 ## 🗺️ Network Architecture & Design
 
-### 🤖 System Architecture Diagram
-*Generated via AI to visualize the structural flow:*
-
-![System Architecture](images/architecture_diagram.png) 
-*(Note: Please name your ChatGPT generated image as architecture_diagram.png and place it in the images folder)*
-
 ### 🔒 Cloud Network Security & Firewall Setup
 The AWS Security Group was hardened to separate system administration from the honeypot target area:
 * **Management Port:** Obfuscated to Custom High Port `42422` (Strictly restricted via Security Group to Admin IP only).
