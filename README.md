@@ -69,5 +69,3 @@ Using the `tail -f var/log/cowrie/cowrie.log` utility, the honeypot engine succe
 
 A localized attack simulation mimicking an adversary attempting password combinations (`admin`) was successfully captured by the daemon log. The attacker was fooled into a decoy Debian GNU/Linux shell (`root@svr04:~#`) while full telemetry was saved.
 
-![Live Attack Logs Captured](images/live_logs.png)
-*(Note: Upload your final screenshot showing the successful password catch and tail log output here)*
