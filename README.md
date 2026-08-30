@@ -13,8 +13,7 @@ The AWS Security Group was hardened to separate system administration from the h
 * **Attacker Target Port:** Publicly exposed standard SSH Port `22` (Open to the entire internet `0.0.0.0/0`).
 * **Internal Redirection:** Port `22` traffic is transparently routed to Cowrie on Port `2222` using Linux kernel `iptables`.
 
-![AWS Security Group Setup](images/aws_sg.png)
-*(Note: Upload your AWS Security Group screenshot here)*
+
 
 ---
 
